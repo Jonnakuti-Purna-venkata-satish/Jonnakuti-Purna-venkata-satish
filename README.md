@@ -11,7 +11,7 @@
 -                                     4.Open-Source Projects
 - 📫 How to reach me :-
                         LINKEDLN : https://www.linkedin.com/in/jonnakuti-purna-venkata-satish-24b13627b/
-                          GITHUB :
+                          GITHUB :https://github.com/Jonnakuti-Purna-venkata-satish
                           MAIL   :2201600005mca@gmail.com
                         PHONE NO : 7675925464
                                    7569800301
