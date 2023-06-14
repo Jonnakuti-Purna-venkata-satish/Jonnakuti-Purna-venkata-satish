@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @Jonnakuti-Purna-venkata-satish
-- 👀 I’m interested in :  1.java devolopper(looking for java developper job roles(fresher))
+- 👀 I’m interested in :
+-                         1.java devolopper(looking for java developper job roles(fresher))
 -                         2. Web Development 
 -                         3. Cloud Computing
                           3. Mobile Development
                           5. Continuous Learning
-- 🌱 I’m currently learning  :-  JAVA FULL STACK
-- 💞️ I’m looking to collaborate on :  1.Professional Networking
+- 🌱 I’m currently learning  :-
+-                               JAVA FULL STACK
+- 💞️ I’m looking to collaborate on :
+-                                     1.Professional Networking
 -                                     2.Online Collaboration Platforms
 -                                     3.Developer Communities
 -                                     4.Open-Source Projects
